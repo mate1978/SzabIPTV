@@ -1,210 +1,210 @@
 #EXTM3U
-#EXTINF:49,RTL
+#EXTINF:49 tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
-#EXTINF:49,RTL Ketto
+#EXTINF:49 tvg-logo="https://i.imgur.com/IVv0qrI.png",RTL Ketto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
-#EXTINF:49,RTL Harom
+#EXTINF:49 tvg-logo="https://i.imgur.com/c4Hhhzs.png",RTL Harom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
-#EXTINF:50,TV2
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png",TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:50,Super TV2
+#EXTINF:50 tvg-logo="https://i.imgur.com/JCu1u2v.png",Super TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
-#EXTINF:49,Viasat2
+#EXTINF:49 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/18/Viasat_2_2004.png",Viasat2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/viasat2/index.m3u8
-#EXTINF:49,Viasat 3
+#EXTINF:49 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Viasat_3_2025.png/500px-Viasat_3_2025.png",Viasat 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/viasat3/index.m3u8
-#EXTINF:49,Viasat 6
+#EXTINF:49 tvg-logo="https://i.imgur.com/kypSbFX.png",Viasat 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/viasat6/index.m3u8
-#EXTINF:50,TV2 Comedy
+#EXTINF:50 tvg-logo="https://i.imgur.com/B02hbcV.png",TV2 Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/tv2_comedy/index.m3u8
-#EXTINF:49,TV Paprika
+#EXTINF:49 tvg-logo="https://i.imgur.com/KLpZIS6.png",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/parpika_hun/index.m3u8
-#EXTINF:50,TV2 Sef
+#EXTINF:50 tvg-logo="https://i.imgur.com/8GFj3XP.png",TV2 Sef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
-#EXTINF:50,RTL Otthon
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png",RTL Otthon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
-#EXTINF:49,Prime
+#EXTINF:49 tvg-logo="https://i.imgur.com/VvZEP4s.png",Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/prime/index.m3u8
-#EXTINF:50,Film+
+#EXTINF:50 tvg-logo="https://i.imgur.com/OWqzJyy.png",Film+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
-#EXTINF:50,Moziklub
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png",Moziklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/moziklub_atk/index.m3u8
-#EXTINF:50,Mozi+
+#EXTINF:50 tvg-logo="https://i.imgur.com/LtCnPFJ.png",Mozi+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/mozi_plusz/index.m3u8
-#EXTINF:49,Moziverzum
+#EXTINF:49 tvg-logo="https://i.imgur.com/NMifecQ.png",Moziverzum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/moziverzum/index.m3u8
-#EXTINF:49,Viasat Film
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/viasat_film/index.m3u8
-#EXTINF:50,AMC Europe Hungary
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/amc_hun/index.m3u8
-#EXTINF:49,AXN CEE
+#EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/axn_hun/index.m3u8
-#EXTINF:49,Duna
+#EXTINF:49 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/axn_crime_wide.png",AXN Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/oPbsSlp.png",Duna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/duna_hun/index.m3u8
-#EXTINF:50,Duna World
+#EXTINF:50 tvg-logo="https://i.imgur.com/uOBQJZS.png",Duna World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/duna_world_hun/index.m3u8
-#EXTINF:49,ATV
+#EXTINF:49 tvg-logo="https://i.imgur.com/85sIvrX.png",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
-#EXTINF:50,ATV Spirit
+#EXTINF:50 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/ATV_Extra.svg/960px-ATV_Extra.svg.png",ATV Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_atv_spirit/playlist.m3u8
-#EXTINF:50,M5 (1080p)
+#EXTINF:50 tvg-logo="https://i.imgur.com/y21wFd0.png",M5
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:49,M1 HD
+#EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
-#EXTINF:66,Euronews Hungarian (720p)
+#EXTINF:66 tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
-#EXTINF:50,FILMBOX+ One Magyar
+#EXTINF:50 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",FILMBOX+ One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
-#EXTINF:48,FILMBOX+ Emotion Hungary (1080p)
+#EXTINF:48 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
-#EXTINF:50,FILMBOX+ Comedy Magyar (576p)
+#EXTINF:50 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",FILMBOX+ Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
-#EXTINF:0,FILMBOX+ Hits Hungary
+#EXTINF:0 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",FILMBOX+ Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/fb_premium_hungary/index.m3u8
-#EXTINF:50,Film Cafe
+#EXTINF:50 tvg-logo="https://i.imgur.com/jaKRnzU.png",Film Cafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/film_cafe/index.m3u8
-#EXTINF:49,Film4
+#EXTINF:49 tvg-logo="https://i.imgur.com/X5N8CHf.png",Film4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/film4_hun/index.m3u8
-#EXTINF:50,TV4
+#EXTINF:50 tvg-logo="https://i.imgur.com/cjypCfu.png",TV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
-#EXTINF:50,Story4
+#EXTINF:50 tvg-logo="https://i.imgur.com/pJsLyiv.png",Story4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
-#EXTINF:0,Galaxy4
+#EXTINF:0 tvg-logo="https://i.imgur.com/fTG99xh.png",Galaxy4
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
-#EXTINF:49,FEM3
+#EXTINF:49 tvg-logo="https://i.imgur.com/AF4Sz8Z.png",FEM3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
-#EXTINF:0,Life TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/3znYv1N.png",Life TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/lifetv/index.m3u8
-#EXTINF:0,Magyar Mozi TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/cXajs8V.png",Magyar Mozi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/mozi/index.m3u8
-#EXTINF:0,RTL Gold
+#EXTINF:0 tvg-logo="https://i.imgur.com/PwbLDUQ.png",RTL Gold
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:50,Sorozatklub
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png",Sorozatklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/sorozatklub_atk/index.m3u8
-#EXTINF:49,Sorozat+
+#EXTINF:49 tvg-logo="https://i.imgur.com/KsxWZIw.png",Sorozat+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
-#EXTINF:0,Izaura TV (1080p)
+#EXTINF:0 tvg-logo="https://i.imgur.com/p9YFnpw.png",Izaura TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/izaura/index.m3u8
-#EXTINF:0,Jocky TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/wLawFVP.png",Jocky TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/jocky/index.m3u8
-#EXTINF:49,History
+#EXTINF:49 tvg-logo="https://i.imgur.com/OWIK7FJ.png",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/history_hun/index.m3u8
-#EXTINF:50,BBC Earth Hungary
+#EXTINF:50 tvg-logo="https://i.imgur.com/nGSsUd4.png",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/bbce_hun/index.m3u8
-#EXTINF:50,Ozone TV
+#EXTINF:50 tvg-logo="https://i.imgur.com/eSNF9qt.png",Ozone TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/ozone/index.m3u8
-#EXTINF:50,Spektrum
+#EXTINF:50 tvg-logo="https://i.imgur.com/GmFRQ82.png",Spektrum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/spektrum_hun/index.m3u8
-#EXTINF:50,Spektrum Home
+#EXTINF:50 tvg-logo="https://i.imgur.com/VaVi65F.png",Spektrum Home
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
-#EXTINF:50,National Geographic
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/ngc_hun/index.m3u8
-#EXTINF:50,National Geographic Wild
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/ngw_hun/index.m3u8
-#EXTINF:50,The Fishing & Hunting Channel HD
+#EXTINF:50 tvg-logo="https://i.imgur.com/KcTTnUA.png",The Fishing & Hunting Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/fishing_hun/index.m3u8
-#EXTINF:40,Oxygen Music (1080p)
+#EXTINF:40 tvg-logo="https://oxygenmusic.hu/static/media/logo.png",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:49,Muzsika TV
+#EXTINF:49 tvg-logo="https://i.imgur.com/kmQ5vYC.png",Muzsika TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
-#EXTINF:50,Dikh TV
+#EXTINF:50 tvg-logo="https://i.imgur.com/aAcORTL.png",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/dikh/index.m3u8
-#EXTINF:49,Zenebutik
+#EXTINF:49 tvg-logo="https://i.imgur.com/xGUlF78.png",Zenebutik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/zenebutik/index.m3u8
-#EXTINF:49,Slager TV
+#EXTINF:49 tvg-logo="https://i.imgur.com/qDNRgSQ.png",Slager TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
-#EXTINF:49,M4 Sport (1080p)
+#EXTINF:49 tvg-logo="https://i.imgur.com/TQ4uJZk.png",M4 Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/uatlmvixrr/index.m3u8
-#EXTINF:50,Sport 1
+#EXTINF:50 tvg-logo="https://i.imgur.com/X5X3tKC.png",Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/sport1_hun/index.m3u8
-#EXTINF:48,Sport 2
+#EXTINF:48 tvg-logo="https://i.imgur.com/UxflVoU.png",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/sport2_hun/index.m3u8
-#EXTINF:48,Spiler 1
+#EXTINF:48 tvg-logo="https://i.imgur.com/pbk8c4x.png",Spiler 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/spiler1/index.m3u8
-#EXTINF:49,Spiler 2
+#EXTINF:49 tvg-logo="https://i.imgur.com/1e0VsVH.png",Spiler 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/spiler2/index.m3u8
-#EXTINF:50,TV2 Kids
+#EXTINF:50 tvg-logo="https://i.imgur.com/Zltlezm.png",TV2 Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/tv2_kids/index.m3u8
-#EXTINF:49,M2 (1080p)
+#EXTINF:49 tvg-logo="https://i.imgur.com/B0nYT0l.png",M2
 http://88.212.15.19/live/m2_hun/index.m3u8
-#EXTINF:0,Minimax
+#EXTINF:0 tvg-logo="https://i.imgur.com/WWOlm1x.png",Minimax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/minimax_hun/index.m3u8
-#EXTINF:0,Kolyokklub
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png",Kolyokklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/kolyokklub_atk/index.m3u8
-#EXTINF:0,JimJam
+#EXTINF:0 tvg-logo="https://i.imgur.com/ODhkYyx.png",JimJam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/jim_jam_hun/index.m3u8
-#EXTINF:50,Nicktoons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/nicktoons_hungary/index.m3u8
-#EXTINF:49,Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOa73uT.png",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
-#EXTINF:49,Nickelodeon
+#EXTINF:50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/nicktoons_hungary/index.m3u8
+#EXTINF:49 tvg-logo="https://i.imgur.com/fXs8f6a.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
-#EXTINF:49,Nick Jr.
+#EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/nick_junior_hun/index.m3u8
-#EXTINF:20,Globo TV
+#EXTINF:20 tvg-id="GLOBO TV" tvg-logo="https://i.imgur.com/PJ4c4jq.png" group-title="",GLOBO TV
 https://stream.streaming4u.hu/GloboTV/index.m3u8
