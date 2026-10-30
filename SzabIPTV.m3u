@@ -67,6 +67,8 @@ http://88.212.15.29/live/axn_hun/index.m3u8
 #EXTINF:49 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/axn_crime_wide.png",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.29/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Hungary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black
+http://141.94.193.53:80/axn_black/index.m3u8
 #EXTINF:49 tvg-logo="https://i.imgur.com/oPbsSlp.png",Duna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.29/live/duna_hun/index.m3u8
