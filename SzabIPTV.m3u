@@ -43,6 +43,8 @@ http://88.212.15.29/live/test_lichi_tv_atk_tv/playlist.m3u8
 http://88.212.15.29/live/rtl_otthon_atk/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Cooking",Food Network
 http://88.212.15.29/live/fn_hungary/index.m3u8
+#EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",Cool TV
+http://141.94.193.53:80/Cool_HD/index.m3u8
 #EXTINF:49 tvg-logo="https://i.imgur.com/VvZEP4s.png",Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.29/live/prime/index.m3u8
