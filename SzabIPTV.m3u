@@ -90,6 +90,8 @@ http://88.212.15.29/live/test_m_5_hun_atk_1200/playlist.m3u8
 http://88.212.15.29/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:66 tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Magyar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="Movies",Canal+ Action
+http://193.33.39.108:9016/play/a02n
 #EXTINF:50 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",FILMBOX+ One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.15.29/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
@@ -176,6 +178,10 @@ http://88.212.15.29/live/id_hun/index.m3u8
 http://88.212.15.29/live/tlc_hungary/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.hu@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Travel_Channel_2D_2014.svg/revision/latest?cb=20180112215118" group-title="",Travel Channel
 http://88.212.15.29/live/travel_hun/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.hu@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Documentary",Viasat History
+http://193.33.39.108:9007/play/a00p
+#EXTINF:-1 tvg-id="ViasatNature.hu@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Documentary",Viasat Nature
+http://193.33.39.108:9000/play/a05r
 #EXTINF:50 tvg-logo="https://i.imgur.com/KcTTnUA.png",The Fishing & Hunting Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.29/live/fishing_hun/index.m3u8
